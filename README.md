@@ -10,16 +10,16 @@ Training result visualised:
 ![alt text](https://github.com/jason2468087/Pytorch-Inception/blob/main/img/Inception%20Result.png?raw=true)
 
 Accuracy per class:
-| Airplanes | Cars | Birds | Cats | Deer | Dogs | Frogs | Horses | Ships | Trucks |
+| Airplanes | Automobile | Birds | Cats | Deer | Dogs | Frogs | Horses | Ships | Trucks |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 70.48% | 71.91% | 54.81% | 43.14% | 52.22% | 66.19% | 62.76% | 71.10% | 72.91% | 68.57% |
 
 Confusion Matrix:
 
-| Predict\Actual | Airplanes | Cars | Birds | Cats | Deer | Dogs | Frogs | Horses | Ships | Trucks |
+| Predict\Actual | Airplanes | Automobile | Birds | Cats | Deer | Dogs | Frogs | Horses | Ships | Trucks |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Airplanes | 640 | 43 | 73 | 33 | 41 | 3 | 8 | 19 | 98 | 42 |
-| Cars | 49 | 709 | 14 | 35 | 26 | 4 | 7 | 7 | 47 | 102 |
+| Automobile | 49 | 709 | 14 | 35 | 26 | 4 | 7 | 7 | 47 | 102 |
 | Birds | 55 | 14 | 541 | 94 | 124 | 25 | 95 | 26 | 16 | 10 |
 | Cats | 14 | 18 | 57 | 481 | 88 | 141 | 123 | 31 | 19 | 28 |
 | Deer | 14 | 10 | 59 | 56 | 647 | 28 | 84 | 80 | 12 | 10 |
