@@ -1,6 +1,14 @@
 # GoogLeNet in Pytorch
 
 ## Introduction
+This program is the famous GoogLeNet machine learning CNN model. The code is built with Pytorch library on jupyter notebook. However, due to hardware limitation, the training only lasted for 6 hours and could not continue for higher accuracy.
+
+## Dependencies
+- Pytorch 1.7.0
+- Python 3.7.4
+
+## Skills
+- Inception Structure
 
 ## Result
 
